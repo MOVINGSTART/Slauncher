@@ -1,0 +1,2 @@
+# Slauncher
+StarCraft Detector
